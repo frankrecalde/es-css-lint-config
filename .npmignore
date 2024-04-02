@@ -1,0 +1,5 @@
+/.gitattributes
+/.nvmrc
+/.github
+/package-lock.json
+core/refresh.sh

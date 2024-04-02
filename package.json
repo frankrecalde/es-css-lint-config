@@ -1,0 +1,45 @@
+{
+  "name": "@frankrecalde/es-css-lint-config",
+  "license": "MIT",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Drupal eslint meta package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankrecalde/es-css-lint-config.git"
+  },
+  "main": "drupal.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "stylelint",
+    "prettier",
+    "drupal",
+    "iconagency",
+    "icon",
+    "lint"
+  ],
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.24.1",
+    "deepmerge": "^4.3.1",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jquery": "^1.5.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-prettier-vue": "^5.0.0",
+    "eslint-plugin-vue": "^9.24.0",
+    "eslint-plugin-yml": "^1.14.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "postcss-scss": "^4.0.9",
+    "prettier": "^3.2.5",
+    "stylelint": "^16.3.1",
+    "stylelint-checkstyle-formatter": "^0.1.2",
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-order": "^6.0.4",
+    "stylelint-scss": "^6.2.1"
+  }
+}

@@ -1,0 +1,13 @@
+**/node_modules/**
+**/vendor/**
+*.min.js
+behat-tests/**
+behat-tests/screenshots/**
+build/**
+web/core/**
+web/modules/contrib/**
+web/profiles/contrib/**
+web/sites/**
+web/themes/contrib/**
+web/libraries/**
+vite.config.js
