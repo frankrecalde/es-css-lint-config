@@ -15,8 +15,6 @@
     "stylelint",
     "prettier",
     "drupal",
-    "iconagency",
-    "icon",
     "lint"
   ],
   "devDependencies": {
