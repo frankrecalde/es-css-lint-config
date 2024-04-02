@@ -1,3 +1,5 @@
+[![Publish Package to npmjs](https://github.com/frankrecalde/es-css-lint-config/actions/workflows/npm-publish-package.yml/badge.svg)](https://github.com/frankrecalde/es-css-lint-config/actions/workflows/npm-publish-package.yml)
+
 # JS and CSS lint configuration
 JS and CSS lint configuration for projects
 
