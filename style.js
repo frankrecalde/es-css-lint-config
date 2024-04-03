@@ -6,7 +6,6 @@ const custom = {
     'at-rule-no-unknown': null,
     'function-no-unknown': null,
     'scss/at-extend-no-missing-placeholder': true,
-    'string-quotes': 'single',
     'unit-allowed-list': ['mm', 'cm'],
   },
   plugins: ['stylelint-scss'],
