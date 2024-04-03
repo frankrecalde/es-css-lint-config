@@ -17,7 +17,7 @@
     "drupal",
     "lint"
   ],
-  "devDependencies": {
+  "dependencies": {
     "@babel/eslint-parser": "^7.24.1",
     "deepmerge": "^4.3.1",
     "eslint": "^8.57.0",
