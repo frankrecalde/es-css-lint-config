@@ -24,3 +24,4 @@ web/core/
 web/sites/*/files/
 web/sites/default/files/
 web/libraries/
+web/modules/contrib
