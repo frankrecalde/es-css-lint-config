@@ -1,7 +1,8 @@
 {
   "extends": "stylelint-config-standard",
   "plugins": [
-    "stylelint-order"
+    "stylelint-order",
+    "stylelint-selector-bem-pattern"
   ],
   "rules": {
     "alpha-value-notation": "number",
@@ -369,6 +370,14 @@
       "font-smooth",
       "line-height"
     ],
+    "plugin/selector-bem-pattern": {
+      "componentName": "[A-Z]+",
+      "componentSelectors": {
+        "initial": "^\\.{componentName}(?:-[a-z]+)?$",
+        "combined": "^\\.combined-{componentName}-[a-z]+$"
+      },
+      "utilitySelectors": "^\\.util-[a-z]+$"
+    },
     "property-no-unknown": null,
     "property-no-vendor-prefix": null,
     "rule-empty-line-before": null,
