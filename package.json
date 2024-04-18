@@ -1,7 +1,7 @@
 {
   "name": "@frankrecalde/es-css-lint-config",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "Drupal eslint meta package",
   "repository": {
